@@ -202,3 +202,4 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
 });
+//https://reactdevstation.github.io/2020/04/04/sqllite.html para ver no es el mismo código pero similar
